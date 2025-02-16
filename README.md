@@ -24,6 +24,7 @@ Go to plant_disease_detection.ipynb notebook file and run the cell that has a he
  ├── 📜 app.py                            # Code for Streamlit web application  
  ├── 📜 leaf_disease_model.pkl            # Trained MobileNetV2 model  
  ├── 📜 gptmodel.py                       # Code for GPT model   
+ ├── 📜 plant_disease_detection.ipynb     # Notebook file that contains the overall project developing, training, results(accuracy) information
  ├── 📜 README.md                         # Project documentation  
 
  📚 Technologies Used
