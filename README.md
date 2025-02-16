@@ -21,11 +21,10 @@ git clone https://github.com/your-username/your-repo.gitcdyour-repo
 Go to plant_disease_detection.ipynb notebook file and run the cell that has a header named "Running Model with Streamlit" to run the application successfully.
 🛠️ Project Structure
 📂 Plant-Disease-Detection  
- ├── 📜 app.py               # Code for Streamlit web application  
+ ├── 📜 app.py                            # Code for Streamlit web application  
  ├── 📜 leaf_disease_model.pkl            # Trained MobileNetV2 model  
- ├── 📜 gptmodel.py           # Code for GPT model   
- ├── 📜 dataset/             # Training dataset 
- ├── 📜 README.md            # Project documentation  
+ ├── 📜 gptmodel.py                       # Code for GPT model   
+ ├── 📜 README.md                         # Project documentation  
 
  📚 Technologies Used
 
