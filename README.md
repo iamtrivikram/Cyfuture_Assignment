@@ -18,14 +18,13 @@ Streamlit UI: User-friendly web interface for easy interaction.
 git clone https://github.com/your-username/your-repo.gitcdyour-repo
 
 2️⃣ Run The Application
-streamlit run app.py
+Go to plant_disease_detection.ipynb notebook file and run the cell that has a header named "Running Model with Streamlit" to run the application successfully.
 🛠️ Project Structure
 📂 Plant-Disease-Detection  
- ├── 📜 app.py               # Streamlit web application  
+ ├── 📜 app.py               # Code for Streamlit web application  
  ├── 📜 model.pkl            # Trained MobileNetV2 model  
- ├── 📜 chatbot.py           # GPT-based chatbot  
- ├── 📜 requirements.txt     # Required Python libraries  
- ├── 📜 dataset/             # Training dataset  
+ ├── 📜 chatbot.py           # Code for GPT model   
+ ├── 📜 dataset/             # Training dataset 
  ├── 📜 README.md            # Project documentation  
 
  📚 Technologies Used
@@ -47,6 +46,11 @@ Click "Predict" to identify the disease.
 Get disease details and solutions.
 
 Ask chatbot for additional guidance.
+
+📝 Results 
+
+![Screenshot 2025-02-16 200110](https://github.com/user-attachments/assets/dc78847a-0e5f-4df8-bd27-bd7ff4c5ce3d)
+
 
 🎯 Future Enhancements
 
