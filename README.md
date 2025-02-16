@@ -49,7 +49,8 @@ Ask chatbot for additional guidance.
 
 📝 Results 
 
-![Screenshot 2025-02-16 200110](https://github.com/user-attachments/assets/dc78847a-0e5f-4df8-bd27-bd7ff4c5ce3d)
+![Screenshot 2025-02-16 200110](https://github.com/user-attachments/assets/234dee26-ed8b-4108-b9dd-41f35b39a606)
+![Screenshot 2025-02-16 200038](https://github.com/user-attachments/assets/af533273-8490-42b2-aeff-42b2719f587e)
 
 
 🎯 Future Enhancements
